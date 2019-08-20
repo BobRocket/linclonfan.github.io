@@ -1,1 +1,1 @@
-*This is a page based on Markdown*
+This is a page based on Markdown
