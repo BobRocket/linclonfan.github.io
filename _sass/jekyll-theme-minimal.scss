@@ -105,7 +105,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:0px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -172,8 +172,8 @@ strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  width:1000px;
+  float:inherit;
   padding-bottom:50px;
 }
 
