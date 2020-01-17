@@ -1,4 +1,4 @@
-# 这是我们的成员![](C:\Users\lincl\Desktop\linclonfan.github.io\assets\img\face.svg)
+# 这是我们的成员![](assets\img\face.svg)
 
 ## 曲文新
 
