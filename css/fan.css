@@ -734,8 +734,8 @@ body .button-hover:hover::before {
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 50px;
-    line-height: 10px;
+    height: 40px;
+    line-height: 5px;
     border-bottom: 1px solid rgba(173,181,189,0.4);
   }
   #menu-outer .menu-list-icon {
@@ -2736,8 +2736,8 @@ body .button-hover:hover::before {
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 50px;
-    line-height: 10px;
+    height: 40px;
+    line-height: 5px;
     border-bottom: 1px solid rgba(173,181,189,0.4);
   }
   #menu-outer .menu-list-icon {
