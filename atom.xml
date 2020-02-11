@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>QSH·IT工作小组</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://qdotsdothdot.top/"/>
   <updated>2020-02-11T03:23:06.927Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://qdotsdothdot.top/</id>
   
   <author>
-    <name>QSH</name>
+    <name>QSH·IT工作 小组</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于我们</title>
-    <link href="http://yoursite.com/2020/02/11/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/"/>
-    <id>http://yoursite.com/2020/02/11/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</id>
+    <link href="http://qdotsdothdot.top/2020/02/11/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/"/>
+    <id>http://qdotsdothdot.top/2020/02/11/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</id>
     <published>2020-02-10T16:00:00.000Z</published>
     <updated>2020-02-11T03:23:06.927Z</updated>
     
@@ -36,7 +36,7 @@
     
     
     
-      <category term="关于我们" scheme="http://yoursite.com/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/"/>
+      <category term="关于我们" scheme="http://qdotsdothdot.top/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/"/>
     
   </entry>
   
