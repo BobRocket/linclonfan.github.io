@@ -701,8 +701,8 @@ body .button-hover:hover::before {
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 50px;
-    line-height: 5px;
+    height: 40px;
+    line-height: 0px;
     border-top: 1px solid rgba(173,181,189,0.4);
     font-size: 20px;
     color: #dee2e6;
@@ -722,7 +722,6 @@ body .button-hover:hover::before {
   }
   #footer .center-content {
     display: flex;
-    margin: 0 auto;
     flex-direction: row;
   }
   #footer .center-content .copyright {
@@ -735,8 +734,8 @@ body .button-hover:hover::before {
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 56px;
-    line-height: 56px;
+    height: 50px;
+    line-height: 10px;
     border-bottom: 1px solid rgba(173,181,189,0.4);
   }
   #menu-outer .menu-list-icon {
@@ -797,15 +796,13 @@ body .button-hover:hover::before {
   }
   #menu-outer .right-info .title-name {
     margin-left: 16px;
-    position: relative;
-    left: -650px;
+    text-align: center;
     font-weight: bolder;
     transition: all 0.5s;
   }
   #menu-outer .right-info .title-name:after {
     content: '';
     position: absolute;
-    text-align: center;
     left: 50%;
     bottom: 0;
     width: 0;
@@ -818,7 +815,6 @@ body .button-hover:hover::before {
     transition: all 0.5s;
   }
   #menu-outer .right-info .title-name:hover:after {
-    text-align: center;
     left: 0;
     width: 100%;
     transition: all 0.5s;
@@ -2707,8 +2703,8 @@ body .button-hover:hover::before {
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 50px;
-    line-height: 5px;
+    height: 40px;
+    line-height: 0px;
     border-top: 1px solid rgba(173,181,189,0.4);
     font-size: 20px;
     color: #dee2e6;
@@ -2728,7 +2724,6 @@ body .button-hover:hover::before {
   }
   #footer .center-content {
     display: flex;
-    margin: 0 auto;
     flex-direction: row;
   }
   #footer .center-content .copyright {
@@ -2741,8 +2736,8 @@ body .button-hover:hover::before {
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 56px;
-    line-height: 56px;
+    height: 50px;
+    line-height: 10px;
     border-bottom: 1px solid rgba(173,181,189,0.4);
   }
   #menu-outer .menu-list-icon {
@@ -2803,15 +2798,13 @@ body .button-hover:hover::before {
   }
   #menu-outer .right-info .title-name {
     margin-left: 16px;
-    position: relative;
-    left: -650px;
+    text-align: center;
     font-weight: bolder;
     transition: all 0.5s;
   }
   #menu-outer .right-info .title-name:after {
     content: '';
     position: absolute;
-    text-align: center;
     left: 50%;
     bottom: 0;
     width: 0;
@@ -2824,7 +2817,6 @@ body .button-hover:hover::before {
     transition: all 0.5s;
   }
   #menu-outer .right-info .title-name:hover:after {
-    text-align: center;
     left: 0;
     width: 100%;
     transition: all 0.5s;
