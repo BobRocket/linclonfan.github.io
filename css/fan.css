@@ -701,10 +701,10 @@ body .button-hover:hover::before {
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 40px;
-    line-height: 40px;
+    height: 50px;
+    line-height: 5px;
     border-top: 1px solid rgba(173,181,189,0.4);
-    font-size: 12px;
+    font-size: 20px;
     color: #dee2e6;
   }
   #footer #side-button {
@@ -720,22 +720,14 @@ body .button-hover:hover::before {
     transition: all 0.5s;
     transform: rotate(180deg);
   }
-  #footer .right-content {
+  #footer .center-content {
     display: flex;
+    margin: 0 auto;
     flex-direction: row;
   }
-  #footer .right-content .busuanzi {
-    margin-right: 16px;
-  }
-  #footer .right-content .busuanzi #busuanzi_container_site_uv,
-  #footer .right-content .busuanzi #busuanzi_container_site_pv {
-    margin-right: 8px;
-  }
-  #footer .right-content .busuanzi .footer-separator {
-    margin: 0 8px;
-  }
-  #footer .right-content .copyright {
-    font-size: 12px;
+  #footer .center-content .copyright {
+    font-size: 25px;
+    text-align: center;
   }
   #menu-outer {
     padding: 0 16px;
@@ -806,12 +798,14 @@ body .button-hover:hover::before {
   #menu-outer .right-info .title-name {
     margin-left: 16px;
     position: relative;
+    left: -650px;
     font-weight: bolder;
     transition: all 0.5s;
   }
   #menu-outer .right-info .title-name:after {
     content: '';
     position: absolute;
+    text-align: center;
     left: 50%;
     bottom: 0;
     width: 0;
@@ -824,6 +818,7 @@ body .button-hover:hover::before {
     transition: all 0.5s;
   }
   #menu-outer .right-info .title-name:hover:after {
+    text-align: center;
     left: 0;
     width: 100%;
     transition: all 0.5s;
@@ -2712,10 +2707,10 @@ body .button-hover:hover::before {
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 40px;
-    line-height: 40px;
+    height: 50px;
+    line-height: 5px;
     border-top: 1px solid rgba(173,181,189,0.4);
-    font-size: 12px;
+    font-size: 20px;
     color: #dee2e6;
   }
   #footer #side-button {
@@ -2731,22 +2726,14 @@ body .button-hover:hover::before {
     transition: all 0.5s;
     transform: rotate(180deg);
   }
-  #footer .right-content {
+  #footer .center-content {
     display: flex;
+    margin: 0 auto;
     flex-direction: row;
   }
-  #footer .right-content .busuanzi {
-    margin-right: 16px;
-  }
-  #footer .right-content .busuanzi #busuanzi_container_site_uv,
-  #footer .right-content .busuanzi #busuanzi_container_site_pv {
-    margin-right: 8px;
-  }
-  #footer .right-content .busuanzi .footer-separator {
-    margin: 0 8px;
-  }
-  #footer .right-content .copyright {
-    font-size: 12px;
+  #footer .center-content .copyright {
+    font-size: 25px;
+    text-align: center;
   }
   #menu-outer {
     padding: 0 16px;
@@ -2817,12 +2804,14 @@ body .button-hover:hover::before {
   #menu-outer .right-info .title-name {
     margin-left: 16px;
     position: relative;
+    left: -650px;
     font-weight: bolder;
     transition: all 0.5s;
   }
   #menu-outer .right-info .title-name:after {
     content: '';
     position: absolute;
+    text-align: center;
     left: 50%;
     bottom: 0;
     width: 0;
@@ -2835,6 +2824,7 @@ body .button-hover:hover::before {
     transition: all 0.5s;
   }
   #menu-outer .right-info .title-name:hover:after {
+    text-align: center;
     left: 0;
     width: 100%;
     transition: all 0.5s;
