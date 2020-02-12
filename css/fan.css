@@ -696,6 +696,7 @@ body .button-hover:hover::before {
     z-index: 9;
   }
   #footer {
+    position: fixed;
     padding: 0 16px;
     display: flex;
     flex-direction: row;
@@ -729,6 +730,7 @@ body .button-hover:hover::before {
     text-align: center;
   }
   #menu-outer {
+    position: fixed;
     padding: 3 20px;
     display: flex;
     flex-direction: row;
@@ -742,7 +744,6 @@ body .button-hover:hover::before {
     display: none;
   }
   #menu-outer #menu-inner .menu-item {
-    position: relative;
     margin-right: 16px;
     font-size: 14px;
     font-weight: bolder;
@@ -750,7 +751,6 @@ body .button-hover:hover::before {
   }
   #menu-outer #menu-inner .menu-item:after {
     content: '';
-    position: absolute;
     left: 0;
     bottom: 0;
     width: 0;
@@ -774,7 +774,6 @@ body .button-hover:hover::before {
   }
   #menu-outer .right-info .title-name:after {
     content: '';
-    position: absolute;
     left: 50%;
     bottom: 0;
     width: 0;
@@ -2665,6 +2664,7 @@ body .button-hover:hover::before {
     z-index: 9;
   }
   #footer {
+    position: fixed;
     padding: 0 16px;
     display: flex;
     flex-direction: row;
@@ -2698,6 +2698,7 @@ body .button-hover:hover::before {
     text-align: center;
   }
   #menu-outer {
+    position: fixed;
     padding: 3 20px;
     display: flex;
     flex-direction: row;
@@ -2711,7 +2712,6 @@ body .button-hover:hover::before {
     display: none;
   }
   #menu-outer #menu-inner .menu-item {
-    position: relative;
     margin-right: 16px;
     font-size: 14px;
     font-weight: bolder;
@@ -2719,7 +2719,6 @@ body .button-hover:hover::before {
   }
   #menu-outer #menu-inner .menu-item:after {
     content: '';
-    position: absolute;
     left: 0;
     bottom: 0;
     width: 0;
@@ -2743,7 +2742,6 @@ body .button-hover:hover::before {
   }
   #menu-outer .right-info .title-name:after {
     content: '';
-    position: absolute;
     left: 50%;
     bottom: 0;
     width: 0;
