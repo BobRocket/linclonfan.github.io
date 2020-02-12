@@ -729,13 +729,13 @@ body .button-hover:hover::before {
     text-align: center;
   }
   #menu-outer {
-    padding: 0 16px;
+    padding: 3 20px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
     height: 40px;
-    line-height: 5px;
+    line-height: 1px;
     border-bottom: 1px solid rgba(173,181,189,0.4);
   }
   #menu-outer .menu-list-icon {
@@ -766,34 +766,6 @@ body .button-hover:hover::before {
     width: 100%;
     transition: all 0.5s;
   }
-  #menu-outer .right-info .search {
-    cursor: pointer;
-    position: relative;
-    font-weight: bolder;
-    transition: all 0.5s;
-  }
-  #menu-outer .right-info .search:after {
-    content: '';
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    width: 0;
-    height: 2px;
-    background: #e67700;
-    transition: all 0.5s;
-  }
-  #menu-outer .right-info .search:hover {
-    color: #e67700;
-    transition: all 0.5s;
-  }
-  #menu-outer .right-info .search:hover:after {
-    left: 0;
-    width: 100%;
-    transition: all 0.5s;
-  }
-  #menu-outer .right-info .search .fas {
-    font-size: 12px;
-  }
   #menu-outer .right-info .title-name {
     margin-left: 16px;
     text-align: center;
@@ -818,11 +790,6 @@ body .button-hover:hover::before {
     left: 0;
     width: 100%;
     transition: all 0.5s;
-  }
-  #menu-outer .right-info #now-time {
-    display: inline-block;
-    margin-left: 16px;
-    text-align: right;
   }
   #page .tag-cloud {
     padding-top: 32px;
@@ -2731,13 +2698,13 @@ body .button-hover:hover::before {
     text-align: center;
   }
   #menu-outer {
-    padding: 0 16px;
+    padding: 3 20px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
     height: 40px;
-    line-height: 5px;
+    line-height: 1px;
     border-bottom: 1px solid rgba(173,181,189,0.4);
   }
   #menu-outer .menu-list-icon {
@@ -2768,34 +2735,6 @@ body .button-hover:hover::before {
     width: 100%;
     transition: all 0.5s;
   }
-  #menu-outer .right-info .search {
-    cursor: pointer;
-    position: relative;
-    font-weight: bolder;
-    transition: all 0.5s;
-  }
-  #menu-outer .right-info .search:after {
-    content: '';
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    width: 0;
-    height: 2px;
-    background: #e67700;
-    transition: all 0.5s;
-  }
-  #menu-outer .right-info .search:hover {
-    color: #e67700;
-    transition: all 0.5s;
-  }
-  #menu-outer .right-info .search:hover:after {
-    left: 0;
-    width: 100%;
-    transition: all 0.5s;
-  }
-  #menu-outer .right-info .search .fas {
-    font-size: 12px;
-  }
   #menu-outer .right-info .title-name {
     margin-left: 16px;
     text-align: center;
@@ -2820,11 +2759,6 @@ body .button-hover:hover::before {
     left: 0;
     width: 100%;
     transition: all 0.5s;
-  }
-  #menu-outer .right-info #now-time {
-    display: inline-block;
-    margin-left: 16px;
-    text-align: right;
   }
   #page .tag-cloud {
     padding-top: 32px;
