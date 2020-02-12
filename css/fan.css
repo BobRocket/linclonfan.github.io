@@ -696,13 +696,12 @@ body .button-hover:hover::before {
     z-index: 9;
   }
   #footer {
-    position: fixed;
     padding: 0 16px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 40px;
+    height: 0px;
     line-height: 0px;
     border-top: 1px solid rgba(173,181,189,0.4);
     font-size: 20px;
@@ -2664,13 +2663,12 @@ body .button-hover:hover::before {
     z-index: 9;
   }
   #footer {
-    position: fixed;
     padding: 0 16px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 40px;
+    height: 0px;
     line-height: 0px;
     border-top: 1px solid rgba(173,181,189,0.4);
     font-size: 20px;
