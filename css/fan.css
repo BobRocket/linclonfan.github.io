@@ -696,15 +696,15 @@ body .button-hover:hover::before {
     z-index: 9;
   }
   #footer {
-    padding: 0 16px;
+    padding: 30px 16px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 0px;
-    line-height: 0px;
+    height: 32px;
+    line-height: 16px;
     border-top: 1px solid rgba(173,181,189,0.4);
-    font-size: 20px;
+    font-size: 21px;
     color: #dee2e6;
   }
   #footer #side-button {
@@ -713,7 +713,6 @@ body .button-hover:hover::before {
     height: 32px;
     cursor: pointer;
     line-height: 32px;
-    text-align: center;
     transition: all 0.5s;
   }
   #footer #side-button.close {
@@ -726,16 +725,15 @@ body .button-hover:hover::before {
   }
   #footer .center-content .copyright {
     font-size: 25px;
-    text-align: center;
   }
   #menu-outer {
     position: fixed;
-    padding: 3 20px;
+    padding: 0 16px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 40px;
+    height: 30px;
     line-height: 1px;
     border-bottom: 1px solid rgba(173,181,189,0.4);
   }
@@ -2663,15 +2661,15 @@ body .button-hover:hover::before {
     z-index: 9;
   }
   #footer {
-    padding: 0 16px;
+    padding: 30px 16px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 0px;
-    line-height: 0px;
+    height: 32px;
+    line-height: 16px;
     border-top: 1px solid rgba(173,181,189,0.4);
-    font-size: 20px;
+    font-size: 21px;
     color: #dee2e6;
   }
   #footer #side-button {
@@ -2680,7 +2678,6 @@ body .button-hover:hover::before {
     height: 32px;
     cursor: pointer;
     line-height: 32px;
-    text-align: center;
     transition: all 0.5s;
   }
   #footer #side-button.close {
@@ -2693,16 +2690,15 @@ body .button-hover:hover::before {
   }
   #footer .center-content .copyright {
     font-size: 25px;
-    text-align: center;
   }
   #menu-outer {
     position: fixed;
-    padding: 3 20px;
+    padding: 0 16px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 32px);
-    height: 40px;
+    height: 30px;
     line-height: 1px;
     border-bottom: 1px solid rgba(173,181,189,0.4);
   }
